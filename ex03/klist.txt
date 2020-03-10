@@ -1,0 +1,5 @@
+Credentials cache: API:0B509946-6E85-4803-B691-935A0F18F9D8
+        Principal: sdejou@42.FR
+
+  Issued                Expires               Principal
+Mar 10 13:10:52 2020  Mar 17 13:10:41 2020  krbtgt/42.FR@42.FR
